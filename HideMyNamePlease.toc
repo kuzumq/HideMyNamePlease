@@ -1,0 +1,9 @@
+## Title: |r[|cffFFA500HideMyNamePlease|r]
+## Notes: HideMyNamePlease
+## Interface: 70000
+## Version: 0.1
+## Author: Kuzum
+## SavedVariables:HideMyNamePlease_UserDB
+## SavedVariablesPerCharacter: HideMyNamePlease_UserCharacterDB
+
+data.xml
