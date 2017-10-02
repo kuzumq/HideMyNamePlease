@@ -6,4 +6,4 @@
 ## SavedVariables:HideMyNamePlease_UserDB
 ## SavedVariablesPerCharacter: HideMyNamePlease_UserCharacterDB
 
-data.xml
+files.xml
